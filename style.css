@@ -1,0 +1,18 @@
+*{
+    font-family: 'Shantell Sans', cursive;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+:root{
+
+    --gold: #FFBF00;
+    --orange: #FF8C00;
+    --lightblue:#0070BB;
+    --grey:#B9D9EB;
+
+}
